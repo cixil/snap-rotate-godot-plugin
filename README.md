@@ -5,7 +5,7 @@ Snap Rotate adds a panel of buttons below the Rotation slider and the scale vect
 ![usage gif](./gifs/usage.gif)
 
 ## Customization
-The degrees can also be customized, simply edit the array on line 6 of `addons/snap_rotate/rotate_panel.gd`
+The degrees can also be customized, simply edit the array on line 6 of `addons/snap_rotate/rotate_panel.gd` after downloading.
 
 ```gdscript
 ## Edit this array and the new values will automatically be added
