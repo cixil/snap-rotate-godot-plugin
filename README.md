@@ -12,3 +12,6 @@ The degrees can also be customized, simply edit the array on line 6 of `addons/s
 ## to the inspector in the order they are arranged.
 var rotation_values:Array[int] = [0, 90, 180, 270]
 ```
+
+## Installation
+Download directly from the [Asset Library](https://godotengine.org/asset-library/asset/3666) in your Godot Editor, or copy the `snap_rotate` folder from this repo into your project's `/addon` folder, then enable it in the project settings.
