@@ -15,3 +15,6 @@ var rotation_values:Array[int] = [0, 90, 180, 270]
 
 ## Installation
 Download directly from the [Asset Library](https://godotengine.org/asset-library/asset/3666) in your Godot Editor, or copy the `snap_rotate` folder from this repo into your project's `/addons` folder, then enable it in the project settings.
+
+## Like this Plugin?
+You may like my other plugin, [Scene Palette](https://github.com/cixil/godot-scene-palette/tree/main)
